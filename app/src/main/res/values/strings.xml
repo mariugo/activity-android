@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Activity</string>
+    <string name="etNome">Digite seu nome</string>
+    <string name="cbBrasileiro">Brasileiro</string>
+    <string name="cbItaliano">Italiano</string>
+    <string name="cbEspanhol">Espanhol</string>
+    <string name="tvNacionalidade">Nacionalidade</string>
+    <string name="tvOpiniao">Avalie sua(s) Cidadania(s)</string>
+    <string name="resNome">Seu nome</string>
+    <string name="resCidadania">Cidadania</string>
+    <string name="resAvaliacao">Avaliação</string>
+    <string name="fbNext">Activity 2</string>
+    <string name="tvSexo">Selecione seu sexo</string>
+    <string name="rbMasculino">Masculino</string>
+    <string name="rbFeminino">Feminino</string>
+    <string name="rbOutro">Outro</string>
+    <string name="fbHome">Home</string>
+    <string name="btnConfirmar">Confirmar</string>
+    <string name="tvSexoEscolhido">Sexo escolhido</string>
+</resources>
